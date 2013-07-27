@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+
+gem 'motion_migrate'
+gem 'teacup'
+gem 'sugarcube', '0.20.25'
+gem 'sweettea'
+gem 'bubble-wrap'
+gem 'motion-cocoapods'
+gem 'awesome_print_motion'
+gem 'afmotion'

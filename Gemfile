@@ -1,8 +1,8 @@
 source 'https://rubygems.org'
 
-gem 'motion_migrate'
+
 gem 'teacup'
-gem 'sugarcube', '0.20.25'
+gem 'sugarcube', require: 'sugarcube-classic'
 gem 'sweettea'
 gem 'bubble-wrap'
 gem 'motion-cocoapods'

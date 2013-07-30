@@ -5,10 +5,9 @@ require 'bundler'
 
 Bundler.require
 
-require 'bubble-wrap/ui'
-
 
 Motion::Project::App.setup do |app|
   # Use `rake config' to see complete project settings.
   app.name = 'hello2'
+  app.detect_dependencies = false
 end
